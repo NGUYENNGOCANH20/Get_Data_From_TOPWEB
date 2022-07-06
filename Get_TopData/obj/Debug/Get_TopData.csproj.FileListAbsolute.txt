@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Desktop\Visual Studio\Get_TopData\Get_TopData\bin\Debug\BookingTop.mdf
+C:\Users\nguye\OneDrive\Desktop\Visual Studio\Get_TopData\Get_TopData\bin\Debug\BookingTop_log.ldf
+C:\Users\nguye\OneDrive\Desktop\Visual Studio\Get_TopData\Get_TopData\bin\Debug\Get_TopData.exe.config
+C:\Users\nguye\OneDrive\Desktop\Visual Studio\Get_TopData\Get_TopData\bin\Debug\Get_TopData.exe
+C:\Users\nguye\OneDrive\Desktop\Visual Studio\Get_TopData\Get_TopData\bin\Debug\Get_TopData.pdb
+C:\Users\nguye\OneDrive\Desktop\Visual Studio\Get_TopData\Get_TopData\obj\Debug\Get_TopData.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\Visual Studio\Get_TopData\Get_TopData\obj\Debug\Get_TopData.csproj.SuggestedBindingRedirects.cache
+C:\Users\nguye\OneDrive\Desktop\Visual Studio\Get_TopData\Get_TopData\obj\Debug\Get_TopData.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\Visual Studio\Get_TopData\Get_TopData\obj\Debug\Get_TopData.exe
+C:\Users\nguye\OneDrive\Desktop\Visual Studio\Get_TopData\Get_TopData\obj\Debug\Get_TopData.pdb
